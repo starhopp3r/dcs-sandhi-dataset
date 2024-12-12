@@ -1,0 +1,78 @@
+## text: Atharvaveda (Śaunaka)
+## text_id: 464
+## chapter: AVŚ, 6, 13
+## chapter_id: 11098
+# text = namo devavadhebhyo namo rājavadhebhyaḥ
+# sent_id = 622149
+# sent_counter = 1
+# sent_subcounter = 1
+1	namo	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688317|Unsandhied=namaḥ
+2-3	devavadhebhyo	_	_	_	_	_	_	_	_
+2	deva	deva	NOUN	_	Case=Cpd	_	_	_	LemmaId=86559|OccId=4688318|Unsandhied=deva|WordSem=102189
+3	vadhebhyaḥ	vadha	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=167152|OccId=4688319|Unsandhied=vadhebhyaḥ|Punctuation=fullStop|WordSem=22811
+4	namo	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688320|Unsandhied=namaḥ
+5-6	rājavadhebhyaḥ	_	_	_	_	_	_	_	_
+5	rāja	rājan	NOUN	_	Case=Cpd	_	_	_	LemmaId=70467|OccId=4688321|Unsandhied=rāja|WordSem=46329
+6	vadhebhyaḥ	vadha	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=167152|OccId=4688322|Unsandhied=vadhebhyaḥ|Punctuation=fullStop|WordSem=22811
+
+# text = atho ye viśyānāṃ vadhās tebhyo mṛtyo namo 'stu te
+# sent_id = 622150
+# sent_counter = 1
+# sent_subcounter = 2
+1	atho	atho	ADV	_		_	_	_	LemmaId=7477|OccId=4688323|Unsandhied=atho
+2	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=4688324|Unsandhied=ye
+3	viśyānāṃ	viśya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=138713|OccId=4688325|Unsandhied=viśyānām|WordSem=48521
+4	vadhās	vadha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=167152|OccId=4688326|Unsandhied=vadhāḥ|Punctuation=comma
+5	tebhyo	tad	PRON	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4688327|Unsandhied=tebhyaḥ
+6	mṛtyo	mṛtyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137611|OccId=4688328|Unsandhied=mṛtyo
+7	namo	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688329|Unsandhied=namaḥ
+8	'stu	as	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=4688330|Unsandhied=astu
+9	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688331|Unsandhied=te|Punctuation=fullStop
+
+# text = namas te adhivākāya parāvākāya te namaḥ
+# sent_id = 622151
+# sent_counter = 2
+# sent_subcounter = 1
+1	namas	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688332|Unsandhied=namaḥ
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688333|Unsandhied=te
+3	adhivākāya	adhivāka	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=9535|OccId=4688334|Unsandhied=adhivākāya|Punctuation=fullStop|WordSem=33703
+4	parāvākāya	parāvāka	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=18755|OccId=4688335|Unsandhied=parāvākāya|WordSem=33898
+5	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688336|Unsandhied=te
+6	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688337|Unsandhied=namaḥ|Punctuation=fullStop
+
+# text = sumatyai mṛtyo te namo durmatyai te idaṃ namaḥ
+# sent_id = 622152
+# sent_counter = 2
+# sent_subcounter = 2
+1	sumatyai	sumati	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=108325|OccId=4688338|Unsandhied=sumatyai
+2	mṛtyo	mṛtyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137611|OccId=4688339|Unsandhied=mṛtyo
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688340|Unsandhied=te
+4	namo	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688341|Unsandhied=namaḥ|Punctuation=fullStop
+5	durmatyai	durmati	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=85633|OccId=4688342|Unsandhied=durmatyai
+6	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688343|Unsandhied=te
+7	idaṃ	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4688344|Unsandhied=idam
+8	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688345|Unsandhied=namaḥ|Punctuation=fullStop
+
+# text = namas te yātudhānebhyo namas te bheṣajebhyaḥ
+# sent_id = 622153
+# sent_counter = 3
+# sent_subcounter = 1
+1	namas	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688346|Unsandhied=namaḥ
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688347|Unsandhied=te
+3	yātudhānebhyo	yātudhāna	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=74274|OccId=4688348|Unsandhied=yātudhānebhyaḥ|Punctuation=fullStop
+4	namas	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688349|Unsandhied=namaḥ
+5	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688350|Unsandhied=te
+6	bheṣajebhyaḥ	bheṣaja	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	LemmaId=25937|OccId=4688351|Unsandhied=bheṣajebhyaḥ|Punctuation=fullStop
+
+# text = namas te mṛtyo mūlebhyo brāhmaṇebhya idaṃ namaḥ
+# sent_id = 622154
+# sent_counter = 3
+# sent_subcounter = 2
+1	namas	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688352|Unsandhied=namaḥ
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4688353|Unsandhied=te
+3	mṛtyo	mṛtyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137611|OccId=4688354|Unsandhied=mṛtyo
+4	mūlebhyo	mūla	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	LemmaId=137542|OccId=4688355|Unsandhied=mūlebhyaḥ|Punctuation=fullStop
+5	brāhmaṇebhya	brāhmaṇa	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=149743|OccId=4688356|Unsandhied=brāhmaṇebhyaḥ
+6	idaṃ	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4688357|Unsandhied=idam
+7	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=4688358|Unsandhied=namaḥ|Punctuation=fullStop
+

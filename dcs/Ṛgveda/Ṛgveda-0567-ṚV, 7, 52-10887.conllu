@@ -1,0 +1,86 @@
+## text: Ṛgveda
+## text_id: 450
+## chapter: ṚV, 7, 52
+## chapter_id: 10887
+# text = ādityāso aditayaḥ syāma pūr devatrā vasavo martyatrā
+# sent_id = 596216
+# sent_counter = 1
+# sent_subcounter = 1
+1	ādityāso	āditya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=4624748|Unsandhied=ādityāsaḥ|WordSem=42955
+2	aditayaḥ	aditi	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=7570|OccId=4624749|Unsandhied=aditayaḥ|WordSem=80852
+3	syāma	as	VERB	_	Tense=Pres|Mood=Opt|Person=1|Number=Plur	_	_	_	LemmaId=156122|OccId=4624750|Unsandhied=syāma|Punctuation=fullStop|WordSem=95892
+4	pūr	pur	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=144597|OccId=4624751|Unsandhied=pūḥ
+5	devatrā	devatrā	ADV	_		_	_	_	LemmaId=86662|OccId=4624752|Unsandhied=devatrā
+6	vasavo	vasu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	_	_	_	LemmaId=75566|OccId=4624753|Unsandhied=vasavaḥ|WordSem=100630
+7	martyatrā	martyatrā	ADV	_		_	_	_	LemmaId=37126|OccId=4624754|Unsandhied=martyatrā|Punctuation=fullStop
+
+# text = sanema mitrāvaruṇā sananto bhavema dyāvāpṛthivī bhavantaḥ
+# sent_id = 596217
+# sent_counter = 1
+# sent_subcounter = 2
+1	sanema	san	VERB	_	Tense=Past|Mood=Opt|Person=1|Number=Plur	_	_	_	LemmaId=159636|OccId=4624755|Unsandhied=sanema
+2	mitrāvaruṇā	mitrāvaruṇa	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=4624756|Unsandhied=mitrāvaruṇā
+3	sananto	san	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	LemmaId=159636|OccId=4624757|Unsandhied=sanantaḥ|Punctuation=fullStop|WordSem=94548
+4	bhavema	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=1|Number=Plur	_	_	_	LemmaId=157250|OccId=4624758|Unsandhied=bhavema|WordSem=85114
+5	dyāvāpṛthivī	dyāvāpṛthivī	NOUN	_	Case=Voc|Gender=Fem|Number=Dual	_	_	_	LemmaId=90304|OccId=4624759|Unsandhied=dyāvāpṛthivī|WordSem=136099
+6	bhavantaḥ	bhū	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157250|OccId=4624760|Unsandhied=bhavantaḥ|Punctuation=fullStop|WordSem=94784
+
+# text = mitras tan no varuṇo māmahanta śarma tokāya tanayāya gopāḥ
+# sent_id = 596218
+# sent_counter = 2
+# sent_subcounter = 1
+1	mitras	mitra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135840|OccId=4624761|Unsandhied=mitraḥ|WordSem=42981
+2	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4624762|Unsandhied=tat
+3	no	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4624763|Unsandhied=naḥ
+4	varuṇo	varuṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69074|OccId=4624764|Unsandhied=varuṇaḥ|WordSem=43000
+5	māmahanta	mah	VERB	_	Tense=Past|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=218812|OccId=4624765|Unsandhied=māmahanta
+6	śarma	śarman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131026|OccId=4624766|Unsandhied=śarma
+7	tokāya	toka	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=83564|OccId=4624767|Unsandhied=tokāya|WordSem=46949
+8	tanayāya	tanaya	ADJ	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=96142|OccId=4624768|Unsandhied=tanayāya|WordSem=74539
+9	gopāḥ	gopā	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=218729|OccId=4624769|Unsandhied=gopāḥ|Punctuation=fullStop
+
+# text = mā vo bhujemānyajātam eno mā tat karma vasavo yac cayadhve
+# sent_id = 596219
+# sent_counter = 2
+# sent_subcounter = 2
+1	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4624770|Unsandhied=mā
+2	vo	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=4624771|Unsandhied=vaḥ
+3-5	bhujemānyajātam	_	_	_	_	_	_	_	_
+3	bhujema	bhuj	VERB	_	Tense=Past|Mood=Opt|Person=1|Number=Plur	_	_	_	LemmaId=157293|OccId=4624772|Unsandhied=bhujema
+4	anya	anya	PRON	_	Case=Cpd	_	_	_	LemmaId=164189|OccId=4624773|Unsandhied=anya|WordSem=78363
+5	jātam	jan	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=4624774|Unsandhied=jātam|WordSem=95963
+6	eno	enas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39712|OccId=4624775|Unsandhied=enaḥ|Punctuation=fullStop
+7	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4624776|Unsandhied=mā
+8	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4624777|Unsandhied=tat
+9	karma	kṛ	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=156168|OccId=4624778|Unsandhied=karma
+10	vasavo	vasu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	_	_	_	LemmaId=75566|OccId=4624779|Unsandhied=vasavaḥ|Punctuation=comma
+11	yac	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=4624780|Unsandhied=yat
+12	cayadhve	ci	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156254|OccId=4624781|Unsandhied=cayadhve|Punctuation=fullStop
+
+# text = turaṇyavo 'ṅgiraso nakṣanta ratnaṃ devasya savitur iyānāḥ
+# sent_id = 596220
+# sent_counter = 3
+# sent_subcounter = 1
+1	turaṇyavo	turaṇyu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=82864|OccId=4624782|Unsandhied=turaṇyavaḥ|WordSem=72030
+2	'ṅgiraso	aṅgiras	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=6265|OccId=4624783|Unsandhied=aṅgirasaḥ
+3	nakṣanta	nakṣ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=157257|OccId=4624784|Unsandhied=nakṣanta|WordSem=93541
+4	ratnaṃ	ratna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=66168|OccId=4624785|Unsandhied=ratnam
+5	devasya	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=86559|OccId=4624786|Unsandhied=devasya
+6	savitur	savitṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=4624787|Unsandhied=savituḥ
+7	iyānāḥ	ī	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=219561|OccId=4624788|Unsandhied=iyānāḥ|Punctuation=fullStop
+
+# text = pitā ca tan no mahān yajatro viśve devāḥ samanaso juṣanta
+# sent_id = 596221
+# sent_counter = 3
+# sent_subcounter = 2
+1	pitā	pitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=94899|OccId=4624789|Unsandhied=pitā|WordSem=45600
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=4624790|Unsandhied=ca
+3	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4624791|Unsandhied=tat
+4	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=4624792|Unsandhied=naḥ
+5	mahān	mahat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=4624793|Unsandhied=mahān|WordSem=74403,79836
+6	yajatro	yajatra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72865|OccId=4624794|Unsandhied=yajatraḥ|WordSem=74845
+7	viśve	viśva	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=139262|OccId=4624795|Unsandhied=viśve|WordSem=79411
+8	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4624796|Unsandhied=devāḥ|WordSem=102189
+9	samanaso	samanas	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=29440|OccId=4624797|Unsandhied=samanasaḥ|WordSem=69667
+10	juṣanta	juṣ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=157147|OccId=4624798|Unsandhied=juṣanta|Punctuation=fullStop|WordSem=87353
+

@@ -1,0 +1,269 @@
+## text: Maitrāyaṇīsaṃhitā
+## text_id: 499
+## chapter: MS, 2, 9, 1
+## chapter_id: 14228
+# text = ā tvā vahantu harayaḥ sucetasaḥ śvetair aśvair iha ketumadbhiḥ
+# sent_id = 669964
+# sent_counter = 1
+# sent_subcounter = 1
+1	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5308374|Unsandhied=ā
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5308241|Unsandhied=tvā
+3	vahantu	vah	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=157404|OccId=5308242|Unsandhied=vahantu
+4	harayaḥ	hari	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=108715|OccId=5308243|Unsandhied=harayaḥ
+5-6	sucetasaḥ	_	_	_	_	_	_	_	_
+5	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5308244|Unsandhied=su
+6	cetasaḥ	cetas	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=51687|OccId=5308245|Unsandhied=cetasaḥ
+7	śvetair	śveta	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=41440|OccId=5308246|Unsandhied=śvetaiḥ
+8	aśvair	aśva	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=60200|OccId=5308247|Unsandhied=aśvaiḥ
+9	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=5308248|Unsandhied=iha
+10	ketumadbhiḥ	ketumat	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=4415|OccId=5308249|Unsandhied=ketumadbhiḥ
+
+# text = vātajavair balavadbhir manojavair asmin yajñe mama havyāya śarva
+# sent_id = 669965
+# sent_counter = 1
+# sent_subcounter = 2
+1-2	vātajavair	_	_	_	_	_	_	_	_
+1	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=5308368|Unsandhied=vāta
+2	javaiḥ	java	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=88411|OccId=5308369|Unsandhied=javaiḥ
+3	balavadbhir	balavat	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=154335|OccId=5308251|Unsandhied=balavadbhiḥ
+4-5	manojavair	_	_	_	_	_	_	_	_
+4	manaḥ	manas	NOUN	_	Case=Cpd	_	_	_	LemmaId=36096|OccId=5308370|Unsandhied=manaḥ
+5	javaiḥ	java	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=88411|OccId=5308371|Unsandhied=javaiḥ
+6	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5308253|Unsandhied=asmin
+7	yajñe	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5308254|Unsandhied=yajñe
+8	mama	mad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37879|OccId=5308255|Unsandhied=mama
+9	havyāya	havya	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=109387|OccId=5308256|Unsandhied=havyāya
+10	śarva	śarva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=116832|OccId=5308257|Unsandhied=śarva|Punctuation=fullStop
+
+# text = devānāṃ ca ṛṣīṇāṃ cāsurāṇāṃ ca pūrvajam
+# sent_id = 669966
+# sent_counter = 2
+# sent_subcounter = 1
+1	devānāṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=5308258|Unsandhied=devānām
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5308259|Unsandhied=ca
+3	ṛṣīṇāṃ	ṛṣi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=39042|OccId=5308260|Unsandhied=ṛṣīṇām
+4-5	cāsurāṇāṃ	_	_	_	_	_	_	_	_
+4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5308261|Unsandhied=ca
+5	asurāṇām	asura	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=61054|OccId=5308262|Unsandhied=asurāṇām
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5308263|Unsandhied=ca
+7	pūrvajam	pūrvaja	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=145645|OccId=5308264|Unsandhied=pūrvajam
+
+# text = mahādevaṃ sahasrākṣaṃ śivam āvāhayāmy aham
+# sent_id = 669967
+# sent_counter = 2
+# sent_subcounter = 2
+1	mahādevaṃ	mahādeva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76992|OccId=5308265|Unsandhied=mahādevam
+2	sahasrākṣaṃ	sahasrākṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=111595|OccId=5308266|Unsandhied=sahasrākṣam
+3	śivam	śiva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=132712|OccId=5308267|Unsandhied=śivam
+4	āvāhayāmy	āvāhay	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=159937|OccId=5308268|Unsandhied=āvāhayāmi
+5	aham	mad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37879|OccId=5308269|Unsandhied=aham|Punctuation=fullStop
+
+# text = tat puruṣāya vidmahe mahādevāya dhīmahi
+# sent_id = 669968
+# sent_counter = 3
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308270|Unsandhied=tat
+2	puruṣāya	puruṣa	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=144647|OccId=5308271|Unsandhied=puruṣāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308272|Unsandhied=vidmahe|Punctuation=fullStop
+4	mahādevāya	mahādeva	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=76992|OccId=5308273|Unsandhied=mahādevāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308274|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no rudraḥ pracodayāt
+# sent_id = 669969
+# sent_counter = 3
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308275|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308276|Unsandhied=naḥ
+3	rudraḥ	rudra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=71571|OccId=5308277|Unsandhied=rudraḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308278|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tad gāṅgaucyāya vidmahe girisutāya dhīmahi
+# sent_id = 669970
+# sent_counter = 4
+# sent_subcounter = 1
+1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308279|Unsandhied=tat
+2	gāṅgaucyāya	gāṅgaucya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=224113|OccId=5308372|Unsandhied=gāṅgaucyāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308280|Unsandhied=vidmahe|Punctuation=fullStop
+4	girisutāya	girisuta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=123986|OccId=5308281|Unsandhied=girisutāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308282|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no gaurī pracodayāt
+# sent_id = 669971
+# sent_counter = 4
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308283|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308284|Unsandhied=naḥ
+3	gaurī	gaurī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=125523|OccId=5308375|Unsandhied=gaurī
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308286|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat kumārāya vidmahe kārttikeyāya dhīmahi
+# sent_id = 669972
+# sent_counter = 5
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308287|Unsandhied=tat
+2	kumārāya	kumāra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=24502|OccId=5308288|Unsandhied=kumārāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308289|Unsandhied=vidmahe|Punctuation=fullStop
+4	kārttikeyāya	kārttikeya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=14276|OccId=5308290|Unsandhied=kārttikeyāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308291|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan naḥ skandaḥ pracodayāt
+# sent_id = 669973
+# sent_counter = 5
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308292|Unsandhied=tat
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308293|Unsandhied=naḥ
+3	skandaḥ	skanda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=102045|OccId=5308294|Unsandhied=skandaḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308295|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat karāṭāya vidmahe hastimukhāya dhīmahi
+# sent_id = 669974
+# sent_counter = 6
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308296|Unsandhied=tat
+2	karāṭāya	karāṭa	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=2555|OccId=5308297|Unsandhied=karāṭāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308298|Unsandhied=vidmahe|Punctuation=fullStop
+4	hastimukhāya	hastimukha	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=109664|OccId=5308299|Unsandhied=hastimukhāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308300|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no dantī pracodayāt
+# sent_id = 669975
+# sent_counter = 6
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308301|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308302|Unsandhied=naḥ
+3	dantī	dantin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=101138|OccId=5308373|Unsandhied=dantī
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308304|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tac caturmukhāya vidmahe padmāsanāya dhīmahi
+# sent_id = 669976
+# sent_counter = 7
+# sent_subcounter = 1
+1	tac	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308305|Unsandhied=tat
+2	caturmukhāya	caturmukha	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=164225|OccId=5308306|Unsandhied=caturmukhāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308307|Unsandhied=vidmahe|Punctuation=fullStop
+4	padmāsanāya	padmāsana	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=16037|OccId=5308308|Unsandhied=padmāsanāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308309|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no brahmā pracodayāt
+# sent_id = 669977
+# sent_counter = 7
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308310|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308311|Unsandhied=naḥ
+3	brahmā	brahman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149177|OccId=5308312|Unsandhied=brahmā
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308313|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat keśavāya vidmahe nārāyaṇāya dhīmahi
+# sent_id = 669978
+# sent_counter = 8
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308314|Unsandhied=tat
+2	keśavāya	keśava	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=4628|OccId=5308315|Unsandhied=keśavāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308316|Unsandhied=vidmahe|Punctuation=fullStop
+4	nārāyaṇāya	nārāyaṇa	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=33635|OccId=5308317|Unsandhied=nārāyaṇāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308318|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no viṣṇuḥ pracodayāt
+# sent_id = 669979
+# sent_counter = 8
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308319|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308320|Unsandhied=naḥ
+3	viṣṇuḥ	viṣṇu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139532|OccId=5308321|Unsandhied=viṣṇuḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308322|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tad bhāskarāya vidmahe prabhākarāya dhīmahi
+# sent_id = 669980
+# sent_counter = 9
+# sent_subcounter = 1
+1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308323|Unsandhied=tat
+2	bhāskarāya	bhāskara	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=50038|OccId=5308324|Unsandhied=bhāskarāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308325|Unsandhied=vidmahe|Punctuation=fullStop
+4	prabhākarāya	prabhākara	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=140948|OccId=5308326|Unsandhied=prabhākarāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308327|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no bhānuḥ pracodayāt
+# sent_id = 669981
+# sent_counter = 9
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308328|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308329|Unsandhied=naḥ
+3	bhānuḥ	bhānu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49438|OccId=5308330|Unsandhied=bhānuḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308331|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat somarājāya vidmahe mahārājāya dhīmahi
+# sent_id = 669982
+# sent_counter = 10
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308332|Unsandhied=tat
+2	somarājāya	somarāja	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=101229|OccId=5308333|Unsandhied=somarājāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308334|Unsandhied=vidmahe|Punctuation=fullStop
+4	mahārājāya	mahārāja	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=77495|OccId=5308335|Unsandhied=mahārājāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308336|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan naś candraḥ pracodayāt
+# sent_id = 669983
+# sent_counter = 10
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308337|Unsandhied=tat
+2	naś	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308338|Unsandhied=naḥ
+3	candraḥ	candra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=164358|OccId=5308339|Unsandhied=candraḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308340|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = taj jvalanāya vidmahe vaiśvānarāya dhīmahi
+# sent_id = 669984
+# sent_counter = 11
+# sent_subcounter = 1
+1	taj	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308341|Unsandhied=tat
+2	jvalanāya	jvalana	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=95438|OccId=5308342|Unsandhied=jvalanāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308343|Unsandhied=vidmahe|Punctuation=fullStop
+4	vaiśvānarāya	vaiśvānara	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=120452|OccId=5308344|Unsandhied=vaiśvānarāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308345|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no vahniḥ pracodayāt
+# sent_id = 669985
+# sent_counter = 11
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308346|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308347|Unsandhied=naḥ
+3	vahniḥ	vahni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75677|OccId=5308348|Unsandhied=vahniḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308349|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat tyajapāya vidmahe mahājapāya dhīmahi
+# sent_id = 669986
+# sent_counter = 12
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308350|Unsandhied=tat
+2	tyajapāya	tyajapa	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=83721|OccId=5308351|Unsandhied=tyajapāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308352|Unsandhied=vidmahe|Punctuation=fullStop
+4	mahājapāya	mahājapa	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=37799|OccId=5308353|Unsandhied=mahājapāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308354|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan no dhyānaḥ pracodayāt
+# sent_id = 669987
+# sent_counter = 12
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308355|Unsandhied=tat
+2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308356|Unsandhied=naḥ
+3	dhyānaḥ	dhyāna	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=43198|OccId=5308357|Unsandhied=dhyānaḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308358|Unsandhied=pracodayāt|Punctuation=fullStop
+
+# text = tat paramātmāya vidmahe vainateyāya dhīmahi
+# sent_id = 669988
+# sent_counter = 13
+# sent_subcounter = 1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308359|Unsandhied=tat
+2	paramātmāya	paramātma	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=16457|OccId=5308360|Unsandhied=paramātmāya
+3	vidmahe	vid	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158058|OccId=5308361|Unsandhied=vidmahe|Punctuation=fullStop
+4	vainateyāya	vainateya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=118791|OccId=5308362|Unsandhied=vainateyāya
+5	dhīmahi	dhā	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=157327|OccId=5308363|Unsandhied=dhīmahi|Punctuation=fullStop
+
+# text = tan naḥ sṛṣṭiḥ pracodayāt
+# sent_id = 669989
+# sent_counter = 13
+# sent_subcounter = 2
+1	tan	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5308364|Unsandhied=tat
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5308365|Unsandhied=naḥ
+3	sṛṣṭiḥ	sṛṣṭi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=99607|OccId=5308366|Unsandhied=sṛṣṭiḥ
+4	pracodayāt	pracoday	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=162389|OccId=5308367|Unsandhied=pracodayāt|Punctuation=fullStop
+

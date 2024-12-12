@@ -1,0 +1,26 @@
+## text: Āyurvedadīpikā
+## text_id: 148
+## chapter: ĀVDīp zu Ca, Cik., 2, 22.2
+## chapter_id: 1516
+# text = agnisamānīti dāhasphoṭakartṛtayā
+# sent_id = 152552
+# sent_counter = 1
+# sent_subcounter = 
+1-3	agnisamānīti	_	_	_	_	_	_	_	_
+1	agni	agni	NOUN	_	Case=Cpd	_	_	_	LemmaId=5705|OccId=444563|Unsandhied=agni|UnsandhiedReconstructed=True
+2	samā	sama	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=166107|OccId=444564|Unsandhied=samā|UnsandhiedReconstructed=True
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=444565|Unsandhied=iti|UnsandhiedReconstructed=True
+4-6	dāhasphoṭakartṛtayā	_	_	_	_	_	_	_	_
+4	dāha	dāha	NOUN	_	Case=Cpd	_	_	_	LemmaId=147050|OccId=444566|Unsandhied=dāha|UnsandhiedReconstructed=True
+5	sphoṭa	sphoṭa	NOUN	_	Case=Cpd	_	_	_	LemmaId=113839|OccId=444567|Unsandhied=sphoṭa|UnsandhiedReconstructed=True
+6	kartṛtayā	kartṛtā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=12161|OccId=444568|Unsandhied=kartṛtayā|UnsandhiedReconstructed=True
+
+# text = saṃbhṛtyeti niṣpādya
+# sent_id = 152553
+# sent_counter = 2
+# sent_subcounter = 
+1-2	saṃbhṛtyeti	_	_	_	_	_	_	_	_
+1	saṃbhṛtya	sambhṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=165584|OccId=444569|Unsandhied=saṃbhṛtya|UnsandhiedReconstructed=True
+2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=444570|Unsandhied=iti|UnsandhiedReconstructed=True
+3	niṣpādya	niṣpāday	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161527|OccId=444571|Unsandhied=niṣpādya|UnsandhiedReconstructed=True
+

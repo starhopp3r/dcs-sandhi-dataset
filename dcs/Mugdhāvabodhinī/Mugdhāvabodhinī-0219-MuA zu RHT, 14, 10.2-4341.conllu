@@ -1,0 +1,88 @@
+## text: Mugdhāvabodhinī
+## text_id: 161
+## chapter: MuA zu RHT, 14, 10.2
+## chapter_id: 4341
+# text = anyaccāha mṛtetyādi
+# sent_id = 329354
+# sent_counter = 1
+# sent_subcounter = 
+1-3	anyaccāha	_	_	_	_	_	_	_	_
+1	anyat	anya	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=164189|OccId=1752202|Unsandhied=anyat|UnsandhiedReconstructed=True
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1752203|Unsandhied=ca|UnsandhiedReconstructed=True
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1752204|Unsandhied=āha
+4-5	mṛtetyādi	_	_	_	_	_	_	_	_
+4	mṛta	mṛ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157973|OccId=1752205|Unsandhied=mṛta|UnsandhiedReconstructed=True
+5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1752206|Unsandhied=ityādi|UnsandhiedReconstructed=True|Punctuation=fullStop
+
+# text = mṛtaśulbatāpyacūrṇaṃ mṛtaṃ ca yat śulbaṃ tāmraṃ tāpyaṃ svarṇamākṣikaṃ ca taccūrṇaṃ kiṃviśiṣṭaṃ kāntayutaṃ cumbakamiśritaṃ tena mṛtaśulbatāpyacūrṇena kāntayutena pūrvaṃ niṣpannaṃ khoṭaṃ rañjayet
+# sent_id = 329355
+# sent_counter = 2
+# sent_subcounter = 
+1-4	mṛtaśulbatāpyacūrṇaṃ	_	_	_	_	_	_	_	_
+1	mṛta	mṛ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157973|OccId=1752207|Unsandhied=mṛta|UnsandhiedReconstructed=True
+2	śulba	śulba	NOUN	_	Case=Cpd	_	_	_	LemmaId=126033|OccId=1752208|Unsandhied=śulba|UnsandhiedReconstructed=True
+3	tāpya	tāpya	NOUN	_	Case=Cpd	_	_	_	LemmaId=97151|OccId=1752209|Unsandhied=tāpya|UnsandhiedReconstructed=True
+4	cūrṇam	cūrṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=52112|OccId=1752210|Unsandhied=cūrṇam|UnsandhiedReconstructed=True
+5	mṛtaṃ	mṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157973|OccId=1752211|Unsandhied=mṛtam|UnsandhiedReconstructed=True
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1752212|Unsandhied=ca|UnsandhiedReconstructed=True
+7	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1752213|Unsandhied=yat|UnsandhiedReconstructed=True
+8	śulbaṃ	śulba	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=126033|OccId=1752214|Unsandhied=śulbam|UnsandhiedReconstructed=True
+9	tāmraṃ	tāmra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=97210|OccId=1752215|Unsandhied=tāmram|UnsandhiedReconstructed=True|Punctuation=comma
+10	tāpyaṃ	tāpya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=97151|OccId=1752216|Unsandhied=tāpyam|UnsandhiedReconstructed=True
+11	svarṇamākṣikaṃ	svarṇamākṣika	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119942|OccId=1752217|Unsandhied=svarṇamākṣikam|UnsandhiedReconstructed=True|Punctuation=comma
+12	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1752218|Unsandhied=ca|UnsandhiedReconstructed=True
+13-14	taccūrṇaṃ	_	_	_	_	_	_	_	_
+13	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1752219|Unsandhied=tat|UnsandhiedReconstructed=True
+14	cūrṇam	cūrṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=52112|OccId=1752220|Unsandhied=cūrṇam|UnsandhiedReconstructed=True
+15	kiṃviśiṣṭaṃ	kiṃviśiṣṭa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=173853|OccId=1752221|Unsandhied=kiṃviśiṣṭam|UnsandhiedReconstructed=True|Punctuation=fullStop
+16-17	kāntayutaṃ	_	_	_	_	_	_	_	_
+16	kānta	kānta	NOUN	_	Case=Cpd	_	_	_	LemmaId=13609|OccId=1752222|Unsandhied=kānta|UnsandhiedReconstructed=True
+17	yutam	yuta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=64646|OccId=1752223|Unsandhied=yutam|UnsandhiedReconstructed=True
+18-19	cumbakamiśritaṃ	_	_	_	_	_	_	_	_
+18	cumbaka	cumbaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=52018|OccId=1752224|Unsandhied=cumbaka|UnsandhiedReconstructed=True
+19	miśritam	miśray	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=166843|OccId=1752225|Unsandhied=miśritam|UnsandhiedReconstructed=True|Punctuation=comma
+20	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1752226|Unsandhied=tena|UnsandhiedReconstructed=True
+21-24	mṛtaśulbatāpyacūrṇena	_	_	_	_	_	_	_	_
+21	mṛta	mṛ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157973|OccId=1752227|Unsandhied=mṛta|UnsandhiedReconstructed=True
+22	śulba	śulba	NOUN	_	Case=Cpd	_	_	_	LemmaId=126033|OccId=1752228|Unsandhied=śulba|UnsandhiedReconstructed=True
+23	tāpya	tāpya	NOUN	_	Case=Cpd	_	_	_	LemmaId=97151|OccId=1752229|Unsandhied=tāpya|UnsandhiedReconstructed=True
+24	cūrṇena	cūrṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=52112|OccId=1752230|Unsandhied=cūrṇena|UnsandhiedReconstructed=True
+25-26	kāntayutena	_	_	_	_	_	_	_	_
+25	kānta	kānta	NOUN	_	Case=Cpd	_	_	_	LemmaId=13609|OccId=1752231|Unsandhied=kānta|UnsandhiedReconstructed=True
+26	yutena	yuta	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=64646|OccId=1752232|Unsandhied=yutena|UnsandhiedReconstructed=True
+27	pūrvaṃ	pūrvam	ADV	_		_	_	_	LemmaId=145628|OccId=1752233|Unsandhied=pūrvam|UnsandhiedReconstructed=True
+28	niṣpannaṃ	niṣpad	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=161526|OccId=1752234|Unsandhied=niṣpannam|UnsandhiedReconstructed=True
+29	khoṭaṃ	khoṭa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=172144|OccId=1752235|Unsandhied=khoṭam|UnsandhiedReconstructed=True
+30	rañjayet	rañjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157994|OccId=1752236|Unsandhied=rañjayet|Punctuation=fullStop
+
+# text = kiṃviśiṣṭaṃ ghanasattvahemayutaṃ abhrasatvasvarṇamiśritam
+# sent_id = 329356
+# sent_counter = 3
+# sent_subcounter = 
+1	kiṃviśiṣṭaṃ	kiṃviśiṣṭa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=173853|OccId=1752237|Unsandhied=kiṃviśiṣṭam|UnsandhiedReconstructed=True|Punctuation=fullStop
+2-5	ghanasattvahemayutaṃ	_	_	_	_	_	_	_	_
+2	ghana	ghana	NOUN	_	Case=Cpd	_	_	_	LemmaId=157044|OccId=1752238|Unsandhied=ghana|UnsandhiedReconstructed=True
+3	sattva	sattva	NOUN	_	Case=Cpd	_	_	_	LemmaId=16581|OccId=1752239|Unsandhied=sattva|UnsandhiedReconstructed=True
+4	hema	heman	NOUN	_	Case=Cpd	_	_	_	LemmaId=110826|OccId=1752240|Unsandhied=hema|UnsandhiedReconstructed=True
+5	yutam	yuta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=64646|OccId=1752241|Unsandhied=yutam|UnsandhiedReconstructed=True
+6-9	abhrasatvasvarṇamiśritam	_	_	_	_	_	_	_	_
+6	abhra	abhra	NOUN	_	Case=Cpd	_	_	_	LemmaId=31528|OccId=1752242|Unsandhied=abhra|UnsandhiedReconstructed=True
+7	sattva	sattva	NOUN	_	Case=Cpd	_	_	_	LemmaId=16581|OccId=1752243|Unsandhied=sattva|UnsandhiedReconstructed=True
+8	svarṇa	svarṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=121731|OccId=1752244|Unsandhied=svarṇa|UnsandhiedReconstructed=True
+9	miśritam	miśray	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=166843|OccId=1752245|Unsandhied=miśritam|UnsandhiedReconstructed=True|Punctuation=fullStop
+
+# text = evaṃvidhaṃ tatkhoṭaṃ rasāyane jarāvyādhināśane yojyam
+# sent_id = 329357
+# sent_counter = 4
+# sent_subcounter = 
+1	evaṃvidhaṃ	evaṃvidha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39762|OccId=1752246|Unsandhied=evaṃvidham|UnsandhiedReconstructed=True
+2-3	tatkhoṭaṃ	_	_	_	_	_	_	_	_
+2	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1752247|Unsandhied=tat|UnsandhiedReconstructed=True
+3	khoṭam	khoṭa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=172144|OccId=1752248|Unsandhied=khoṭam|UnsandhiedReconstructed=True
+4	rasāyane	rasāyana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=69769|OccId=1752249|Unsandhied=rasāyane|UnsandhiedReconstructed=True
+5-7	jarāvyādhināśane	_	_	_	_	_	_	_	_
+5	jarā	jarā	NOUN	_	Case=Cpd	_	_	_	LemmaId=87924|OccId=1752250|Unsandhied=jarā|UnsandhiedReconstructed=True
+6	vyādhi	vyādhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=119173|OccId=1752251|Unsandhied=vyādhi|UnsandhiedReconstructed=True
+7	nāśane	nāśana	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=33827|OccId=1752252|Unsandhied=nāśane|UnsandhiedReconstructed=True
+8	yojyam	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157298|OccId=1752253|Unsandhied=yojyam|UnsandhiedReconstructed=True
+

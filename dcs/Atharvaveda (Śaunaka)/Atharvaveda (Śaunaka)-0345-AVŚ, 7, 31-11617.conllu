@@ -1,0 +1,40 @@
+## text: Atharvaveda (Śaunaka)
+## text_id: 464
+## chapter: AVŚ, 7, 31
+## chapter_id: 11617
+# text = indrotibhir bahulābhir no adya yāvacchreṣṭhābhir maghavañchūra jinva
+# sent_id = 623124
+# sent_counter = 1
+# sent_subcounter = 1
+1-2	indrotibhir	_	_	_	_	_	_	_	_
+1	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4809537|Unsandhied=indra
+2	ūtibhiḥ	ūti	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=38335|OccId=4809538|Unsandhied=ūtibhiḥ
+3	bahulābhir	bahula	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=147801|OccId=4809539|Unsandhied=bahulābhiḥ
+4	no	mad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37879|OccId=4809540|Unsandhied=naḥ
+5	adya	adya	ADV	_		_	_	_	LemmaId=7682|OccId=4809541|Unsandhied=adya
+6-7	yāvacchreṣṭhābhir	_	_	_	_	_	_	_	_
+6	yāvat	yāvat	SCONJ	_		_	_	_	LemmaId=64536|OccId=4809542|Unsandhied=yāvat
+7	śreṣṭhābhiḥ	śreṣṭha	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=40948|OccId=4809543|Unsandhied=śreṣṭhābhiḥ
+8-9	maghavañchūra	_	_	_	_	_	_	_	_
+8	maghavan	maghavan	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=169385|OccId=4809544|Unsandhied=maghavan
+9	śūra	śūra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=127205|OccId=4809545|Unsandhied=śūra
+10	jinva	jinv	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157145|OccId=4809546|Unsandhied=jinva|Punctuation=fullStop
+
+# text = yo no dveṣṭy adharaḥ sas padīṣṭa yam u dviṣmas tam u prāṇo jahātu
+# sent_id = 623125
+# sent_counter = 1
+# sent_subcounter = 2
+1	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4809547|Unsandhied=yaḥ
+2	no	mad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37879|OccId=4809548|Unsandhied=naḥ
+3	dveṣṭy	dviṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157774|OccId=4809549|Unsandhied=dveṣṭi
+4	adharaḥ	adhara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=7787|OccId=4809557|Unsandhied=adharaḥ
+5	sas	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4809558|Unsandhied=saḥ
+6	padīṣṭa	pad	VERB	_	Tense=Past|Mood=Prec|Person=3|Number=Sing	_	_	_	LemmaId=157388|OccId=4809551|Unsandhied=padīṣṭa|Punctuation=fullStop
+7	yam	yad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4809552|Unsandhied=yam
+8	u	u	PART	_		_	_	_	LemmaId=213150|OccId=4809559|Unsandhied=u
+9	dviṣmas	dviṣ	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157774|OccId=4809553|Unsandhied=dviṣmaḥ|Punctuation=comma
+10	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4809554|Unsandhied=tam
+11	u	u	PART	_		_	_	_	LemmaId=213150|OccId=4809560|Unsandhied=u
+12	prāṇo	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=156090|OccId=4809555|Unsandhied=prāṇaḥ
+13	jahātu	hā	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157412|OccId=4809556|Unsandhied=jahātu|Punctuation=fullStop
+

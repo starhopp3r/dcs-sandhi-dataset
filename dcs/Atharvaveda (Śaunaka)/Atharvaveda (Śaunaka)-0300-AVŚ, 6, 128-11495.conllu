@@ -1,0 +1,75 @@
+## text: Atharvaveda (Śaunaka)
+## text_id: 464
+## chapter: AVŚ, 6, 128
+## chapter_id: 11495
+# text = śakadhūmam nakṣatrāṇi yat rājānam akurvata bhadra aham asmai prāyacchan
+# sent_id = 622881_1
+1	śakadhūmam	śakadhūma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=116342|OccId=5118475|Unsandhied=śakadhūmam|Annotator=Ol
+2	nakṣatrāṇi	nakṣatra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	LemmaId=43546|OccId=4774858|Unsandhied=nakṣatrāṇi|Annotator=Ol
+3	yat	yat	SCONJ	_	_	5	mark	_	LemmaId=73227|OccId=4774859|Unsandhied=yat|Annotator=Ol
+4	rājānam	rājan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	xcomp:result	_	LemmaId=70467|OccId=4774860|Unsandhied=rājānam|Annotator=Ol
+5	akurvata	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	9	advcl:temp	_	LemmaId=156168|OccId=4774861|Unsandhied=akurvata|Annotator=Ol|Punctuation=comma
+6	bhadra	bhadra	ADJ	_	Case=Cpd	7	amod	_	LemmaId=48731|OccId=4774862|Unsandhied=bhadra|Annotator=Ol
+7	aham	aha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LemmaId=203023|OccId=4774863|Unsandhied=aham|Annotator=Ol
+8	asmai	idam	PRON	_	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	LemmaId=37876|OccId=4774864|Unsandhied=asmai|Annotator=Ol
+9	prāyacchan	prayam	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=162975|OccId=4774911|Unsandhied=prāyacchan|Annotator=Ol|Punctuation=fullStop
+
+# text = bhadra aham naḥ madhyaṃdine bhadra aham sāyam astu naḥ bhadra aham naḥ ahnām prātā
+# sent_id = 622882_1
+1	bhadra	bhadra	ADJ	_	Case=Cpd	2	amod	_	LemmaId=48731|OccId=4774868|Unsandhied=bhadra|Annotator=Ol
+2	aham	aha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=203023|OccId=4774869|Unsandhied=aham|Annotator=Ol
+3	naḥ	mad	PRON	_	Case=Dat|Number=Plur	4	iobj	_	LemmaId=37879|OccId=4774870|Unsandhied=naḥ|Annotator=Ol
+4	madhyaṃdine	madhyaṃdina	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	LemmaId=35836|OccId=4774871|Unsandhied=madhyaṃdine|Annotator=Ol
+5	bhadra	bhadra	ADJ	_	Case=Cpd	6	amod	_	LemmaId=48731|OccId=4774872|Unsandhied=bhadra|Annotator=Ol
+6	aham	aha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	LemmaId=203023|OccId=4774873|Unsandhied=aham|Annotator=Ol
+7	sāyam	sāyam	ADV	_	_	4	conj	_	LemmaId=204066|OccId=4774874|Unsandhied=sāyam|Annotator=Ol
+8	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	7	cop	_	LemmaId=156122|OccId=4774875|Unsandhied=astu|Annotator=Ol
+9	naḥ	mad	PRON	_	Case=Dat|Number=Plur	7	iobj	_	LemmaId=37879|OccId=4774876|Unsandhied=naḥ|Annotator=Ol|Punctuation=fullStop
+10	bhadra	bhadra	ADJ	_	Case=Cpd	11	amod	_	LemmaId=48731|OccId=4774877|Unsandhied=bhadra|Annotator=Ol
+11	aham	aha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	LemmaId=203023|OccId=4774878|Unsandhied=aham|Annotator=Ol
+12	naḥ	mad	PRON	_	Case=Dat|Number=Plur	14	iobj	_	LemmaId=37879|OccId=4774879|Unsandhied=naḥ|Annotator=Ol
+13	ahnām	ahar	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	LemmaId=168349|OccId=4774880|Unsandhied=ahnām|Annotator=Ol
+14	prātā	prāti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	conj	_	LemmaId=155162|OccId=4774881|Unsandhied=prātā|Annotator=Ol|Punctuation=fullStop
+
+# text = rātrī bhadra aham astu naḥ
+# sent_id = 622883_1
+1	rātrī	rātri	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LemmaId=70626|OccId=4774882|Unsandhied=rātrī|Annotator=Ol
+2	bhadra	bhadra	ADJ	_	Case=Cpd	3	amod	_	LemmaId=48731|OccId=4774883|Unsandhied=bhadra|Annotator=Ol
+3	aham	aha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=203023|OccId=4774884|Unsandhied=aham|Annotator=Ol
+4	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	cop	_	LemmaId=156122|OccId=4774885|Unsandhied=astu|Annotator=Ol
+5	naḥ	mad	PRON	_	Case=Dat|Number=Plur	3	iobj	_	LemmaId=37879|OccId=4774886|Unsandhied=naḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = ahar rātrābhyām nakṣatrebhyaḥ sūryācandramasābhyām bhadra aham asmabhyam rājan śakadhūma tvam kṛdhi
+# sent_id = 622885_1
+1	ahar	ahar	NOUN	_	Case=Cpd|Gender=Neut	2	compound:coord	_	LemmaId=168349|OccId=4774887|Unsandhied=ahar|Annotator=Ol
+2	rātrābhyām	rātra	NOUN	_	Case=Abl|Gender=Masc|Number=Dual	11	obl:source	_	LemmaId=70684|OccId=4774888|Unsandhied=rātrābhyām|Annotator=Ol
+3	nakṣatrebhyaḥ	nakṣatra	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	2	conj	_	LemmaId=43546|OccId=4774889|Unsandhied=nakṣatrebhyaḥ|Annotator=Ol
+4	sūryācandramasābhyām	sūryācandramasā	NOUN	_	Case=Abl|Gender=Fem|Number=Dual	2	conj	_	LemmaId=99476|OccId=4774912|Unsandhied=sūryācandramasābhyām|Annotator=Ol
+5	bhadra	bhadra	ADJ	_	Case=Cpd	6	amod	_	LemmaId=48731|OccId=4774890|Unsandhied=bhadra|Annotator=Ol
+6	aham	aha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	LemmaId=203023|OccId=4774891|Unsandhied=aham|Annotator=Ol
+7	asmabhyam	mad	PRON	_	Case=Dat|Number=Plur	11	iobj	_	LemmaId=37879|OccId=4774892|Unsandhied=asmabhyam|Annotator=Ol
+8	rājan	rājan	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	9	nmod:appos	_	LemmaId=70467|OccId=5118476|Unsandhied=rājan|Annotator=Ol
+9	śakadhūma	śakadhūma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	11	vocative	_	LemmaId=116342|OccId=5118477|Unsandhied=śakadhūma|Annotator=Ol
+10	tvam	tvad	PRON	_	Case=Nom|Number=Sing	11	nsubj	_	LemmaId=37880|OccId=4774893|Unsandhied=tvam|Annotator=Ol
+11	kṛdhi	kṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=156168|OccId=4774894|Unsandhied=kṛdhi|Annotator=Ol|Punctuation=fullStop
+
+# text = yaḥ naḥ bhadra aham akaraḥ sāyam naktam atha u divā tasmai te nakṣatra rāja śakadhūma sadā namaḥ
+# sent_id = 622887_1
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37877|OccId=4774895|Unsandhied=yaḥ|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4774896|Unsandhied=naḥ|Annotator=Ol
+3	bhadra	bhadra	ADJ	_	Case=Cpd	4	amod	_	LemmaId=48731|OccId=4774897|Unsandhied=bhadra|Annotator=Ol
+4	aham	aha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=203023|OccId=4774898|Unsandhied=aham|Annotator=Ol
+5	akaraḥ	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	12	acl:rel	_	LemmaId=156168|OccId=4774899|Unsandhied=akaraḥ|Annotator=Ol
+6	sāyam	sāya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl:temp	_	LemmaId=112873|OccId=4774900|Unsandhied=sāyam|Annotator=Ol
+7	naktam	nakta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	LemmaId=43506|OccId=4774901|Unsandhied=naktam|Annotator=Ol
+8	atha	atha	ADV	_	_	10	cc	_	LemmaId=7467|OccId=4774916|Unsandhied=atha|Annotator=Ol
+9	u	u	PART	_	_	8	fixed	_	LemmaId=213150|OccId=4774917|Unsandhied=u|Annotator=Ol
+10	divā	divā	ADV	_	_	6	conj	_	LemmaId=146911|OccId=4774902|Unsandhied=divā|Annotator=Ol|Punctuation=comma
+11	tasmai	tad	PRON	_	Case=Dat|Gender=Masc|Number=Sing	12	det	_	LemmaId=37875|OccId=4774903|Unsandhied=tasmai|Annotator=Ol
+12	te	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4774904|Unsandhied=te|Annotator=Ol
+13	nakṣatra	nakṣatra	NOUN	_	Case=Cpd|Gender=Neut	14	nmod	_	LemmaId=43546|OccId=4774905|Unsandhied=nakṣatra|Annotator=Ol
+14	rāja	rāja	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	15	nmod:appos	_	LemmaId=70209|OccId=4774906|Unsandhied=rāja|Annotator=Ol
+15	śakadhūma	śakadhūma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	12	vocative	_	LemmaId=116342|OccId=5118478|Unsandhied=śakadhūma|Annotator=Ol
+16	sadā	sadā	ADV	_	_	12	advmod	_	LemmaId=17190|OccId=4774909|Unsandhied=sadā|Annotator=Ol
+17	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	LemmaId=44133|OccId=4774910|Unsandhied=namaḥ|Annotator=Ol|Punctuation=fullStop
+

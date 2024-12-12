@@ -1,0 +1,102 @@
+## text: Atharvaveda (Paippalāda)
+## text_id: 468
+## chapter: AVP, 1, 82
+## chapter_id: 13053
+# text = agneḥ prajātam pari yat hiraṇyam amṛtam dadhre adhi martyeṣu
+# sent_id = 633135_1
+1	agneḥ	agni	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	2	obl:source	_	LemmaId=5705|OccId=5102359|Unsandhied=agneḥ|Annotator=Ol
+2	prajātam	prajan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	7	csubj	_	LemmaId=162399|OccId=5102360|Unsandhied=prajātam|Annotator=Ol
+3	pari	pari	ADP	_	_	1	case	_	LemmaId=170864|OccId=5102361|Unsandhied=pari|Annotator=Ol
+4	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	det	_	LemmaId=37877|OccId=5102362|Unsandhied=yat|Annotator=Ol
+5	hiraṇyam	hiraṇya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=110191|OccId=5102431|Unsandhied=hiraṇyam|Annotator=Ol
+6	amṛtam	amṛta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	7	advcl:dpct	_	LemmaId=31884|OccId=5102363|Unsandhied=amṛtam|Annotator=Ol
+7	dadhre	dhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157616|OccId=5102364|Unsandhied=dadhre|Annotator=Ol
+8	adhi	adhi	ADP	_	_	9	case	_	LemmaId=170078|OccId=5102365|Unsandhied=adhi|Annotator=Ol
+9	martyeṣu	martya	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	7	obl:loc	_	LemmaId=37121|OccId=5102366|Unsandhied=martyeṣu|Annotator=Ol|Punctuation=comma
+
+# text = yaḥ enat veda saḥ id enat arhati
+# sent_id = 633136_1
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=37877|OccId=5102367|Unsandhied=yaḥ|Annotator=Ol
+2	enat	enad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=166401|OccId=5102368|Unsandhied=enat|Annotator=Ol
+3	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl:rel	_	LemmaId=158058|OccId=5102369|Unsandhied=veda|Annotator=Ol|Punctuation=comma
+4	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LemmaId=37875|OccId=5102370|Unsandhied=saḥ|Annotator=Ol
+5	id	id	PART	_	_	7	discourse	_	LemmaId=217401|OccId=5102371|Unsandhied=id|Annotator=Ol
+6	enat	enad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	LemmaId=166401|OccId=5102372|Unsandhied=enat|Annotator=Ol
+7	arhati	arh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156118|OccId=5102373|Unsandhied=arhati|Annotator=Ol|Punctuation=fullStop
+
+# text = jarā mṛtyuḥ bhavati yaḥ bibharti
+# sent_id = 633136_2
+1	jarā	jarā	NOUN	_	Case=Cpd|Gender=Fem	2	nmod	_	LemmaId=87924|OccId=5102374|Unsandhied=jarā|Annotator=Ol
+2	mṛtyuḥ	mṛtyu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	xcomp:result	_	LemmaId=137611|OccId=5102375|Unsandhied=mṛtyuḥ|Annotator=Ol
+3	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157250|OccId=5102376|Unsandhied=bhavati|Annotator=Ol|Punctuation=comma
+4	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37877|OccId=5102377|Unsandhied=yaḥ|Annotator=Ol
+5	bibharti	bhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	csubj	_	LemmaId=157419|OccId=5102378|Unsandhied=bibharti|Annotator=Ol|Punctuation=fullStop
+
+# text = yat hiraṇyam sūryeṇa su varṇam prajāvantaḥ manavaḥ pūrve īṣire tat tvā candram varcasā sam sṛjāti
+# sent_id = 633138_1
+1	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	LemmaId=37877|OccId=5102379|Unsandhied=yat|Annotator=Ol
+2	hiraṇyam	hiraṇya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	LemmaId=110191|OccId=5102432|Unsandhied=hiraṇyam|Annotator=Ol
+3	sūryeṇa	sūrya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	LemmaId=99310|OccId=5102380|Unsandhied=sūryeṇa|Annotator=Ol
+4	su	su	ADV	_	_	5	amod	_	LemmaId=204329|OccId=5102381|Unsandhied=su|Annotator=Ol
+5	varṇam	varṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	acl:attr	_	LemmaId=74430|OccId=5102382|Unsandhied=varṇam|Annotator=Ol
+6	prajāvantaḥ	prajāvat	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	7	amod	_	LemmaId=151293|OccId=5102383|Unsandhied=prajāvantaḥ|Annotator=Ol
+7	manavaḥ	manu	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	LemmaId=36151|OccId=5102384|Unsandhied=manavaḥ|Annotator=Ol
+8	pūrve	pūrva	PRON	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	LemmaId=145625|OccId=5102385|Unsandhied=pūrve|Annotator=Ol
+9	īṣire	iṣ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	acl:rel	_	LemmaId=156131|OccId=5102386|Unsandhied=īṣire|Annotator=Ol|Punctuation=comma
+10	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	12	det	_	LemmaId=37875|OccId=5102387|Unsandhied=tat|Annotator=Ol
+11	tvā	tvad	PRON	_	Case=Acc|Number=Sing	15	obj	_	LemmaId=37880|OccId=5102388|Unsandhied=tvā|Annotator=Ol
+12	candram	candra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	LemmaId=218932|OccId=5102389|Unsandhied=candram|Annotator=Ol
+13	varcasā	varcas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	15	obl:soc	_	LemmaId=69437|OccId=5102390|Unsandhied=varcasā|Annotator=Ol
+14	sam	sam	ADP	_	_	15	advmod	_	LemmaId=171323|OccId=5102391|Unsandhied=sam|Annotator=Ol
+15	sṛjāti	sṛj	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157522|OccId=5102392|Unsandhied=sṛjāti|Annotator=Ol|Punctuation=fullStop
+
+# text = āyuṣmān bhavati yaḥ bibharti
+# sent_id = 633138_2
+1	āyuṣmān	āyuṣmat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	xcomp:result	_	LemmaId=59226|OccId=5102393|Unsandhied=āyuṣmān|Annotator=Ol
+2	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157250|OccId=5102394|Unsandhied=bhavati|Annotator=Ol|Punctuation=comma
+3	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37877|OccId=5102395|Unsandhied=yaḥ|Annotator=Ol
+4	bibharti	bhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	csubj	_	LemmaId=157419|OccId=5102396|Unsandhied=bibharti|Annotator=Ol|Punctuation=fullStop
+
+# text = āyuṣe tvā
+# sent_id = 633139_1
+1	āyuṣe	āyus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	orphan	_	LemmaId=59234|OccId=5102433|Unsandhied=āyuṣe|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	0	root	_	LemmaId=37880|OccId=5102434|Unsandhied=tvā|Annotator=Ol|Punctuation=fullStop
+
+# text = varcase tvā ojase ca balāya ca yathā hiraṇya tejasā vibhāsāsi janāṁ anu
+# sent_id = 633139_2
+1	varcase	varcas	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	orphan	_	LemmaId=69437|OccId=5102435|Unsandhied=varcase|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	0	root	_	LemmaId=37880|OccId=5102436|Unsandhied=tvā|Annotator=Ol
+3	ojase	ojas	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	conj	_	LemmaId=40060|OccId=5102437|Unsandhied=ojase|Annotator=Ol
+4	ca	ca	CONJ	_	_	3	cc	_	LemmaId=157144|OccId=5102438|Unsandhied=ca|Annotator=Ol
+5	balāya	bala	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	conj	_	LemmaId=154315|OccId=5102439|Unsandhied=balāya|Annotator=Ol
+6	ca	ca	CONJ	_	_	5	cc	_	LemmaId=157144|OccId=5102440|Unsandhied=ca|Annotator=Ol|Punctuation=comma
+7	yathā	yathā	PART	_	_	10	mark	_	LemmaId=73250|OccId=5102441|Unsandhied=yathā|Annotator=Ol
+8	hiraṇya	hiraṇya	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	10	vocative	_	LemmaId=110191|OccId=5102465|Unsandhied=hiraṇya|Annotator=Ol
+9	tejasā	tejas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl:instr	_	LemmaId=83387|OccId=5102442|Unsandhied=tejasā|Annotator=Ol
+10	vibhāsāsi	vibhās	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	2	orphan	_	LemmaId=163507|OccId=5102466|Unsandhied=vibhāsāsi|Annotator=Ol
+11	janāṁ	jana	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obl:path	_	LemmaId=87452|OccId=5102443|Unsandhied=janāṁ|Annotator=Ol
+12	anu	anu	ADP	_	_	11	case	_	LemmaId=166836|OccId=5102444|Unsandhied=anu|Annotator=Ol|Punctuation=fullStop
+
+# text = yat veda rājā varuṇaḥ veda devaḥ bṛhaspatiḥ indraḥ yat vṛtra hā veda tat te āyuṣyam bhuvat tat te varcasyam bhuvat
+# sent_id = 633142_1
+1	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37877|OccId=5102445|Unsandhied=yat|Annotator=Ol
+2	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	acl:rel	_	LemmaId=158058|OccId=5102446|Unsandhied=veda|Annotator=Ol
+3	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod:appos	_	LemmaId=70467|OccId=5102447|Unsandhied=rājā|Annotator=Ol
+4	varuṇaḥ	varuṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=69074|OccId=5102448|Unsandhied=varuṇaḥ|Annotator=Ol|Punctuation=comma
+5	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	LemmaId=158058|OccId=5102449|Unsandhied=veda|Annotator=Ol
+6	devaḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nmod:appos	_	LemmaId=86559|OccId=5102450|Unsandhied=devaḥ|Annotator=Ol
+7	bṛhaspatiḥ	bṛhaspati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=148726|OccId=5102451|Unsandhied=bṛhaspatiḥ|Annotator=Ol|Punctuation=comma
+8	indraḥ	indra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	LemmaId=63463|OccId=5102452|Unsandhied=indraḥ|Annotator=Ol
+9	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	LemmaId=37877|OccId=5102453|Unsandhied=yat|Annotator=Ol
+10	vṛtra	vṛtra	NOUN	_	Case=Cpd|Gender=Masc	11	obj	_	LemmaId=142153|OccId=5102454|Unsandhied=vṛtra|Annotator=Ol
+11	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	acl	_	LemmaId=166068|OccId=5102455|Unsandhied=hā|Annotator=Ol
+12	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	LemmaId=158058|OccId=5102456|Unsandhied=veda|Annotator=Ol|Punctuation=comma
+13	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	LemmaId=37875|OccId=5102457|Unsandhied=tat|Annotator=Ol
+14	te	tvad	PRON	_	Case=Dat|Number=Sing	16	iobj	_	LemmaId=37880|OccId=5102458|Unsandhied=te|Annotator=Ol
+15	āyuṣyam	āyuṣya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	16	xcomp:result	_	LemmaId=59230|OccId=5102459|Unsandhied=āyuṣyam|Annotator=Ol
+16	bhuvat	bhū	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157250|OccId=5102460|Unsandhied=bhuvat|Annotator=Ol|Punctuation=comma
+17	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	LemmaId=37875|OccId=5102461|Unsandhied=tat|Annotator=Ol
+18	te	tvad	PRON	_	Case=Dat|Number=Sing	20	iobj	_	LemmaId=37880|OccId=5102462|Unsandhied=te|Annotator=Ol
+19	varcasyam	varcasya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	20	xcomp:result	_	LemmaId=69444|OccId=5102463|Unsandhied=varcasyam|Annotator=Ol
+20	bhuvat	bhū	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	16	conj	_	LemmaId=157250|OccId=5102464|Unsandhied=bhuvat|Annotator=Ol|Punctuation=fullStop
+

@@ -1,0 +1,148 @@
+## text: Aitareyabrāhmaṇa
+## text_id: 471
+## chapter: AB, 6, 6
+## chapter_id: 12009
+# text = athāta ārambhaṇīyā eva
+# sent_id = 638152
+# sent_counter = 1
+# sent_subcounter = 
+1-2	athāta	_	_	_	_	_	_	_	_
+1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4909371|Unsandhied=atha
+2	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=4909372|Unsandhied=atas
+3	ārambhaṇīyā	ārambhaṇīya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=59364|OccId=4909373|Unsandhied=ārambhaṇīyāḥ
+4	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4909374|Unsandhied=eva|Punctuation=fullStop
+
+# text = ṛjunītī no varuṇa iti maitrāvaruṇasya mitro nayatu vidvān iti praṇetā vā eṣa hotrakāṇāṃ yan maitrāvaruṇas tasmād eṣā praṇetṛmatī bhavati
+# sent_id = 638153
+# sent_counter = 2
+# sent_subcounter = 
+1-2	ṛjunītī	_	_	_	_	_	_	_	_
+1	ṛju	ṛju	ADJ	_	Case=Cpd	_	_	_	LemmaId=38884|OccId=4909463|Unsandhied=ṛju|IsMantra=True
+2	nītī	nīti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=28474|OccId=4909464|Unsandhied=nītī|IsMantra=True
+3	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=4909375|Unsandhied=naḥ|IsMantra=True
+4	varuṇa	varuṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69074|OccId=4909376|Unsandhied=varuṇaḥ|Punctuation=fullStop|IsMantra=True
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909377|Unsandhied=iti
+6	maitrāvaruṇasya	maitrāvaruṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=72248|OccId=4909378|Unsandhied=maitrāvaruṇasya|Punctuation=comma
+7	mitro	mitra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135840|OccId=4909379|Unsandhied=mitraḥ|IsMantra=True
+8	nayatu	nī	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157259|OccId=4909380|Unsandhied=nayatu|IsMantra=True
+9	vidvān	vid	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	LemmaId=158058|OccId=4909381|Unsandhied=vidvān|IsMantra=True
+10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909382|Unsandhied=iti|Punctuation=fullStop
+11	praṇetā	praṇetṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151892|OccId=4909383|Unsandhied=praṇetā
+12	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4909384|Unsandhied=vai
+13	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=4909385|Unsandhied=eṣa
+14	hotrakāṇāṃ	hotraka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=111105|OccId=4909386|Unsandhied=hotrakāṇām|Punctuation=comma
+15	yan	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=4909387|Unsandhied=yat
+16	maitrāvaruṇas	maitrāvaruṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72248|OccId=4909388|Unsandhied=maitrāvaruṇaḥ|Punctuation=fullStop
+17	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4909389|Unsandhied=tasmāt
+18	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4909390|Unsandhied=eṣā
+19	praṇetṛmatī	praṇetṛmat	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=222259|OccId=4909465|Unsandhied=praṇetṛmatī
+20	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4909391|Unsandhied=bhavati|Punctuation=fullStop
+
+# text = indraṃ vo viśvatas parīti brāhmaṇācchaṃsino havāmahe janebhya itīndram evaitayāhar ahar nihvayante
+# sent_id = 638154
+# sent_counter = 3
+# sent_subcounter = 
+1	indraṃ	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4909392|Unsandhied=indram|IsMantra=True
+2	vo	tvad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37880|OccId=4909393|Unsandhied=vaḥ|IsMantra=True
+3	viśvatas	viśvatas	ADV	_		_	_	_	LemmaId=139378|OccId=4909394|Unsandhied=viśvatas|IsMantra=True
+4-5	parīti	_	_	_	_	_	_	_	_
+4	pari	pari	ADP	_		_	_	_	LemmaId=170864|OccId=4909395|Unsandhied=pari|IsMantra=True
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909396|Unsandhied=iti|Punctuation=fullStop
+6	brāhmaṇācchaṃsino	brāhmaṇācchaṃsin	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=149756|OccId=4909397|Unsandhied=brāhmaṇācchaṃsinaḥ|Punctuation=fullStop
+7	havāmahe	hvā	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157561|OccId=4909398|Unsandhied=havāmahe|IsMantra=True
+8	janebhya	jana	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=87452|OccId=4909399|Unsandhied=janebhyaḥ|Punctuation=fullStop|IsMantra=True
+9-10	itīndram	_	_	_	_	_	_	_	_
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909400|Unsandhied=iti
+10	indram	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4909401|Unsandhied=indram
+11-13	evaitayāhar	_	_	_	_	_	_	_	_
+11	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4909402|Unsandhied=eva
+12	etayā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4909403|Unsandhied=etayā
+13	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909404|Unsandhied=ahar
+14	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909466|Unsandhied=ahar
+15	nihvayante	nihve	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=161553|OccId=4909468|Unsandhied=nihvayante|Punctuation=fullStop
+
+# text = na haiṣāṃ vihave 'nya indraṃ vṛṅkte yatraivaṃ vidvān brāhmaṇācchaṃsy etām ahar ahaḥ śaṃsati
+# sent_id = 638155
+# sent_counter = 4
+# sent_subcounter = 
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4909405|Unsandhied=na
+2-3	haiṣāṃ	_	_	_	_	_	_	_	_
+2	ha	ha	PART	_		_	_	_	LemmaId=169970|OccId=4909406|Unsandhied=ha
+3	eṣām	idam	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=4909407|Unsandhied=eṣām
+4	vihave	vihava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139706|OccId=4909408|Unsandhied=vihave
+5	'nya	anya	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=164189|OccId=4909409|Unsandhied=anyaḥ
+6	indraṃ	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4909410|Unsandhied=indram
+7	vṛṅkte	vṛj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157332|OccId=4909411|Unsandhied=vṛṅkte|Punctuation=comma
+8-9	yatraivaṃ	_	_	_	_	_	_	_	_
+8	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=4909412|Unsandhied=yatra
+9	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=4909413|Unsandhied=evam
+10	vidvān	vid	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	LemmaId=158058|OccId=4909414|Unsandhied=vidvān
+11	brāhmaṇācchaṃsy	brāhmaṇācchaṃsin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149756|OccId=4909415|Unsandhied=brāhmaṇācchaṃsī
+12	etām	etad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4909416|Unsandhied=etām
+13	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909417|Unsandhied=ahar
+14	ahaḥ	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909418|Unsandhied=ahar
+15	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4909419|Unsandhied=śaṃsati|Punctuation=fullStop
+
+# text = yat soma ā sute nara ity achāvākasyendrāgnī ajohavur itīndrāgnī evaitayāhar ahar nihvayante na haiṣāṃ vihave 'nya indrāgnī vṛṅkte yatraivaṃ vidvān achāvāka etām ahar ahaḥ śaṃsati
+# sent_id = 638156
+# sent_counter = 5
+# sent_subcounter = 
+1	yat	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4909420|Unsandhied=yat|IsMantra=True
+2	soma	soma	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=4909421|Unsandhied=some|IsMantra=True
+3	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=4909470|Unsandhied=ā|IsMantra=True
+4	sute	su	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=4909422|Unsandhied=sute|IsMantra=True
+5	nara	nṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=4909423|Unsandhied=naraḥ|Punctuation=fullStop|IsMantra=True
+6	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909424|Unsandhied=iti
+7-9	achāvākasyendrāgnī	_	_	_	_	_	_	_	_
+7	achāvākasya	acchāvāka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=6388|OccId=4909425|Unsandhied=achāvākasya|IsMantra=True
+8	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=4909426|Unsandhied=indra|IsMantra=True
+9	agnī	agni	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=4909427|Unsandhied=agnī|IsMantra=True
+10	ajohavur	johav	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=215989|OccId=4909428|Unsandhied=ajohavuḥ|Punctuation=fullStop|IsMantra=True
+11-13	itīndrāgnī	_	_	_	_	_	_	_	_
+11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4909429|Unsandhied=iti
+12	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=4909430|Unsandhied=indra
+13	agnī	agni	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=4909431|Unsandhied=agnī
+14-16	evaitayāhar	_	_	_	_	_	_	_	_
+14	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4909432|Unsandhied=eva
+15	etayā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4909433|Unsandhied=etayā
+16	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909434|Unsandhied=ahar
+17	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909435|Unsandhied=ahar
+18	nihvayante	nihve	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=161553|OccId=4909469|Unsandhied=nihvayante|Punctuation=fullStop
+19	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4909436|Unsandhied=na
+20-21	haiṣāṃ	_	_	_	_	_	_	_	_
+20	ha	ha	PART	_		_	_	_	LemmaId=169970|OccId=4909437|Unsandhied=ha
+21	eṣām	idam	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=4909438|Unsandhied=eṣām
+22	vihave	vihava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139706|OccId=4909439|Unsandhied=vihave
+23	'nya	anya	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=164189|OccId=4909440|Unsandhied=anyaḥ
+24-25	indrāgnī	_	_	_	_	_	_	_	_
+24	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=4909441|Unsandhied=indra
+25	agnī	agni	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=4909442|Unsandhied=agnī
+26	vṛṅkte	vṛj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157332|OccId=4909443|Unsandhied=vṛṅkte|Punctuation=comma
+27-28	yatraivaṃ	_	_	_	_	_	_	_	_
+27	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=4909444|Unsandhied=yatra
+28	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=4909445|Unsandhied=evam
+29	vidvān	vid	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	LemmaId=158058|OccId=4909446|Unsandhied=vidvān
+30	achāvāka	acchāvāka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6388|OccId=4909447|Unsandhied=achāvākaḥ
+31	etām	etad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4909448|Unsandhied=etām
+32	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909449|Unsandhied=ahar
+33	ahaḥ	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4909450|Unsandhied=ahar
+34	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4909451|Unsandhied=śaṃsati|Punctuation=fullStop
+
+# text = tā vā etāḥ svargasya lokasya nāvaḥ sampāriṇyaḥ svargam evaitābhir lokam abhisaṃtaranti
+# sent_id = 638157
+# sent_counter = 6
+# sent_subcounter = 
+1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4909452|Unsandhied=tāḥ
+2	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4909453|Unsandhied=vai
+3	etāḥ	etad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=163744|OccId=4909454|Unsandhied=etāḥ
+4	svargasya	svarga	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=121714|OccId=4909455|Unsandhied=svargasya
+5	lokasya	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=66869|OccId=4909456|Unsandhied=lokasya
+6	nāvaḥ	nau	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=166388|OccId=4909457|Unsandhied=nāvaḥ
+7	sampāriṇyaḥ	sampārin	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=30693|OccId=4909458|Unsandhied=sampāriṇyaḥ|Punctuation=fullStop
+8	svargam	svarga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=121714|OccId=4909459|Unsandhied=svargam
+9-10	evaitābhir	_	_	_	_	_	_	_	_
+9	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4909460|Unsandhied=eva
+10	etābhiḥ	etad	PRON	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=163744|OccId=4909461|Unsandhied=etābhiḥ
+11	lokam	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=66869|OccId=4909462|Unsandhied=lokam
+12	abhisaṃtaranti	abhisaṃtṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159127|OccId=4909467|Unsandhied=abhisaṃtaranti|Punctuation=fullStop
+

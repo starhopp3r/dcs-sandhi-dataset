@@ -1,0 +1,78 @@
+## text: Atharvaveda (Śaunaka)
+## text_id: 464
+## chapter: AVŚ, 7, 68
+## chapter_id: 11674
+# text = sarasvati vrateṣu te divyeṣu devi dhāmasu
+# sent_id = 623298
+# sent_counter = 1
+# sent_subcounter = 1
+1	sarasvati	sarasvatī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=104125|OccId=4821895|Unsandhied=sarasvati
+2	vrateṣu	vrata	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=116251|OccId=4821896|Unsandhied=vrateṣu
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4821897|Unsandhied=te
+4	divyeṣu	divya	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=147116|OccId=4821898|Unsandhied=divyeṣu
+5	devi	devī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=87156|OccId=4821899|Unsandhied=devi
+6	dhāmasu	dhāman	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=42443|OccId=4821900|Unsandhied=dhāmasu
+
+# text = juṣasva havyam āhutaṃ prajām devi rarāsva naḥ
+# sent_id = 623299
+# sent_counter = 1
+# sent_subcounter = 2
+1	juṣasva	juṣ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157147|OccId=4821901|Unsandhied=juṣasva
+2	havyam	havya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=109387|OccId=4821902|Unsandhied=havyam
+3	āhutaṃ	āhu	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160038|OccId=4821903|Unsandhied=āhutam|Punctuation=fullStop
+4	prajām	prajā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=150748|OccId=4821904|Unsandhied=prajām
+5	devi	devī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=87156|OccId=4821905|Unsandhied=devi
+6	rarāsva	rā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158909|OccId=4821906|Unsandhied=rarāsva
+7	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=4821907|Unsandhied=naḥ|Punctuation=fullStop
+
+# text = idaṃ te havyaṃ ghṛtavat sarasvatīdaṃ pitṝṇāṃ havir āsyaṃ yat
+# sent_id = 623300
+# sent_counter = 2
+# sent_subcounter = 1
+1	idaṃ	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4821908|Unsandhied=idam
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4821909|Unsandhied=te
+3	havyaṃ	havya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=109387|OccId=4821910|Unsandhied=havyam
+4	ghṛtavat	ghṛtavat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=161181|OccId=4821911|Unsandhied=ghṛtavat
+5-6	sarasvatīdaṃ	_	_	_	_	_	_	_	_
+5	sarasvati	sarasvatī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=104125|OccId=4821912|Unsandhied=sarasvati
+6	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4821913|Unsandhied=idam
+7	pitṝṇāṃ	pitṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=94899|OccId=4821914|Unsandhied=pitṝṇām
+8	havir	havis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=109386|OccId=4821915|Unsandhied=haviḥ
+9	āsyaṃ	āsya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=62886|OccId=4821916|Unsandhied=āsyam
+10	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=4821917|Unsandhied=yat|Punctuation=fullStop
+
+# text = imāni ta uditā śaṃtamāni tebhir vayaṃ madhumantaḥ syāma
+# sent_id = 623301
+# sent_counter = 2
+# sent_subcounter = 2
+1	imāni	idam	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=37876|OccId=4821918|Unsandhied=imāni
+2	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4821919|Unsandhied=te
+3	uditā	vad	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157266|OccId=4821920|Unsandhied=uditā
+4	śaṃtamāni	śaṃtama	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=115831|OccId=4821935|Unsandhied=śaṃtamāni|Punctuation=fullStop
+5	tebhir	tad	PRON	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=37875|OccId=4821921|Unsandhied=tebhiḥ
+6	vayaṃ	mad	PRON	_	Case=Nom|Number=Plur	_	_	_	LemmaId=37879|OccId=4821922|Unsandhied=vayam
+7	madhumantaḥ	madhumat	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=35578|OccId=4821923|Unsandhied=madhumantaḥ
+8	syāma	as	VERB	_	Tense=Pres|Mood=Opt|Person=1|Number=Plur	_	_	_	LemmaId=156122|OccId=4821924|Unsandhied=syāma|Punctuation=fullStop
+
+# text = śivā naḥ śaṃtamā bhava sumṛḍīkā sarasvati
+# sent_id = 623302
+# sent_counter = 3
+# sent_subcounter = 1
+1	śivā	śiva	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=132711|OccId=4821925|Unsandhied=śivā
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=4821926|Unsandhied=naḥ
+3	śaṃtamā	śaṃtama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=115831|OccId=4821927|Unsandhied=śaṃtamā
+4	bhava	bhū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157250|OccId=4821928|Unsandhied=bhava
+5-6	sumṛḍīkā	_	_	_	_	_	_	_	_
+5	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=4821929|Unsandhied=su
+6	mṛḍīkā	mṛḍīka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=137058|OccId=4821930|Unsandhied=mṛḍīkā
+7	sarasvati	sarasvatī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=104125|OccId=4821931|Unsandhied=sarasvati|Punctuation=fullStop
+
+# text = mā te yuyoma saṃdṛśaḥ
+# sent_id = 623303
+# sent_counter = 3
+# sent_subcounter = 2
+1	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4821932|Unsandhied=mā
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4821933|Unsandhied=te
+3	yuyoma	yu	VERB	_	Tense=Pres|Mood=Jus|Person=1|Number=Plur	_	_	_	LemmaId=158431|OccId=4821936|Unsandhied=yuyoma
+4	saṃdṛśaḥ	saṃdṛś	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=17637|OccId=4821934|Unsandhied=saṃdṛśaḥ|Punctuation=fullStop
+
