@@ -1,6 +1,6 @@
 # DCS Sandhi Dataset
 
-A Sanskrit sandhi dataset derived from the Digital Corpus of Sanskrit (DCS). With 980,260 entries, it is currently the largest Sanskrit sandhi dataset available.
+A Sanskrit sandhi dataset derived from the Digital Corpus of Sanskrit (DCS). With 1,014,634 entries, it is currently the largest Sanskrit sandhi dataset available.
 
 ## Reference
 
