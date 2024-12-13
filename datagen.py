@@ -16,70 +16,145 @@ def iast_to_devanagari(text):
     return sanscript.transliterate(text, sanscript.IAST, sanscript.DEVANAGARI)
 
 
-def process_conllu_file(file_path, data_rows):
-    multiword_original = None
-    multiword_parts = []
-    multiword_start_id = None
-    multiword_end_id = None
+def token_in_ranges(ranges, idx):
+    return any(start_id <= idx <= end_id for (start_id, end_id) in ranges)
 
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith('#'):
-                continue
 
-            m = token_line_pattern.match(line)
-            if m:
-                token_id_str = m.group(1)
-                original_form = m.group(2)
-                # Check if current line defines a multiword token
-                if '-' in token_id_str:
-                    # If a multiword is already in progress, finalize it first (if it had any parts)
-                    if multiword_original and multiword_parts:
-                        split_str = '+'.join(multiword_parts)
-                        dev_word = iast_to_devanagari(multiword_original)
-                        dev_split = iast_to_devanagari(split_str)
-                        data_rows.append({"word": dev_word, "split": dev_split})
-                    # Start a new multiword token
-                    start_id, end_id = map(int, token_id_str.split('-'))
-                    multiword_original = original_form
-                    multiword_parts = []
-                    multiword_start_id = start_id
-                    multiword_end_id = end_id
-                else:
-                    # Single token line
-                    current_id = int(token_id_str)
-                    # If we are in a multiword block and this token is within the range, process it
-                    if multiword_original and multiword_start_id <= current_id <= multiword_end_id:
-                        unsandhied_match = unsandhied_pattern.search(line)
-                        if unsandhied_match:
-                            unsandhied_form = unsandhied_match.group(1)
-                            multiword_parts.append(unsandhied_form)
-                        # If we have reached the end of the multiword range, finalize immediately
-                        if current_id == multiword_end_id:
-                            # Finalize this multiword token
-                            if multiword_parts:
-                                split_str = '+'.join(multiword_parts)
-                                dev_word = iast_to_devanagari(multiword_original)
-                                dev_split = iast_to_devanagari(split_str)
-                                data_rows.append({"word": dev_word, "split": dev_split})
-                            # Reset after finalizing
-                            multiword_original = None
-                            multiword_parts = []
-                            multiword_start_id = None
-                            multiword_end_id = None
-                    # If we're not in a multiword block or current_id not in range, ignore this token
-            else:
-                # This line doesn't match the token pattern, ignore
-                pass
-    # At file end, if a multiword was not yet finalized (for some reason),
-    # finalize it if we have parts and the range was completed. 
-    # This is a safety net; ideally, all multiwords should be closed right after their last token.
-    if multiword_original and multiword_parts and multiword_start_id is not None and multiword_end_id is not None:
-        split_str = '+'.join(multiword_parts)
-        dev_word = iast_to_devanagari(multiword_original)
+def max_end_id(ranges):
+    return max(end_id for start_id, end_id in ranges) if ranges else None
+
+
+def finalize_chain(data_rows, original_form, parts):
+    if original_form and parts:
+        split_str = '+'.join(parts)
+        dev_word = iast_to_devanagari(original_form)
         dev_split = iast_to_devanagari(split_str)
         data_rows.append({"word": dev_word, "split": dev_split})
+
+
+def process_conllu_file(file_path, data_rows):
+    current_chain_in_progress = False
+    current_chain_original = ""
+    current_chain_parts = []
+    current_chain_ranges = []
+    chain_pending_finalization = False
+    last_single_token_original_form = None
+    last_single_token_unsandhied_form = None
+    last_single_token_standalone = True
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = [l.strip() for l in f if l.strip() and not l.startswith('#')]
+
+
+    def finalize_if_pending():
+        nonlocal current_chain_in_progress, current_chain_original, current_chain_parts, current_chain_ranges, chain_pending_finalization
+        if chain_pending_finalization and current_chain_in_progress:
+            finalize_chain(data_rows, current_chain_original, current_chain_parts)
+            current_chain_in_progress = False
+            current_chain_original = ""
+            current_chain_parts = []
+            current_chain_ranges = []
+            chain_pending_finalization = False
+
+
+    def start_new_chain(original_form, ranges, initial_parts=None):
+        nonlocal current_chain_in_progress, current_chain_original, current_chain_parts, current_chain_ranges, chain_pending_finalization
+        current_chain_in_progress = True
+        current_chain_original = original_form
+        current_chain_parts = initial_parts if initial_parts else []
+        current_chain_ranges = ranges
+        chain_pending_finalization = False
+
+
+    def try_merge_with_last_single(original_form):
+        nonlocal last_single_token_original_form, last_single_token_unsandhied_form, last_single_token_standalone
+        if last_single_token_original_form and last_single_token_standalone:
+            merged_original = last_single_token_original_form + original_form
+            merged_parts = []
+            if last_single_token_unsandhied_form:
+                merged_parts.append(last_single_token_unsandhied_form)
+            return merged_original, merged_parts, True
+        else:
+            # Can't merge, remove `'` if present
+            if original_form.startswith("'"):
+                return original_form[1:], [], False
+            else:
+                return original_form, [], False
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        m = token_line_pattern.match(line)
+        if m:
+            token_id_str = m.group(1)
+            original_form = m.group(2)
+            is_multiword = '-' in token_id_str
+            if is_multiword:
+                start_id, end_id = map(int, token_id_str.split('-'))
+                if original_form.startswith("'"):
+                    # `'` multiword line
+                    if chain_pending_finalization and current_chain_in_progress:
+                        # Extend the existing chain with this `'` multiword token
+                        current_chain_original += original_form
+                        current_chain_ranges.append((start_id, end_id))
+                        # We'll set chain_pending_finalization = True after reading all tokens of this new range
+                        chain_pending_finalization = False
+                    else:
+                        # No chain pending
+                        finalize_if_pending()
+                        merged_original, merged_parts, merged = try_merge_with_last_single(original_form)
+                        start_new_chain(merged_original, [(start_id, end_id)], merged_parts)
+                else:
+                    # Normal multiword line (no `'`)
+                    finalize_if_pending()
+                    start_new_chain(original_form, [(start_id, end_id)])
+            else:
+                # Single token line
+                current_id = int(token_id_str)
+                uns_match = unsandhied_pattern.search(line)
+                single_unsandhied_form = uns_match.group(1) if uns_match else None
+
+                if original_form.startswith("'"):
+                    # `'` single token line
+                    if chain_pending_finalization and current_chain_in_progress:
+                        # Extend existing chain
+                        current_chain_original += original_form
+                        if single_unsandhied_form:
+                            current_chain_parts.append(single_unsandhied_form)
+                        chain_pending_finalization = True
+                    else:
+                        # No chain pending
+                        finalize_if_pending()
+                        merged_original, merged_parts, merged = try_merge_with_last_single(original_form)
+                        start_new_chain(merged_original, [(current_id, current_id)], merged_parts)
+                        if single_unsandhied_form:
+                            current_chain_parts.append(single_unsandhied_form)
+                        chain_pending_finalization = True
+                    last_single_token_original_form = None
+                    last_single_token_unsandhied_form = None
+                    last_single_token_standalone = False
+                else:
+                    # Normal single token
+                    # If chain pending and a normal single token line appears, finalize the chain now
+                    if chain_pending_finalization and current_chain_in_progress:
+                        finalize_if_pending()
+
+                    if current_chain_in_progress and token_in_ranges(current_chain_ranges, current_id):
+                        if single_unsandhied_form:
+                            current_chain_parts.append(single_unsandhied_form)
+                        max_id = max_end_id(current_chain_ranges)
+                        if current_id == max_id:
+                            chain_pending_finalization = True
+                        last_single_token_standalone = False
+                    else:
+                        # Standalone single token
+                        last_single_token_standalone = True
+                        last_single_token_original_form = original_form
+                        last_single_token_unsandhied_form = single_unsandhied_form
+
+        i += 1
+    # End of file
+    finalize_if_pending()
 
 
 def main():
