@@ -1,7 +1,8 @@
 import os
 import re
-from tqdm import tqdm
 import pandas as pd
+from tqdm import tqdm
+import sanskrit_text as skt
 from indic_transliteration import sanscript
 
 
@@ -157,6 +158,24 @@ def process_conllu_file(file_path, data_rows):
     finalize_if_pending()
 
 
+def clean_dataframe(df):
+    def is_valid_word(word):
+        try:
+            # Check if the word is valid using skt.get_ucchaarana_vectors
+            skt.get_ucchaarana_vectors(word)
+            return True
+        except Exception:
+            return False
+
+    # Apply the is_valid_word function and create a valid word mask
+    valid_word_mask = df["word"].apply(is_valid_word)
+    # Check for "split" column containing "_" and create a valid split mask
+    valid_split_mask = ~df["split"].str.contains("_", na=False)
+    # Combine both masks to filter the DataFrame
+    cleaned_df = df[valid_word_mask & valid_split_mask]
+    return cleaned_df
+
+
 def main():
     conllu_files = []
     for root, dirs, files in os.walk(INPUT_DIR):
@@ -167,6 +186,7 @@ def main():
     for file_path in tqdm(conllu_files, desc="Processing files"):
         process_conllu_file(file_path, data_rows)
     df = pd.DataFrame(data_rows, columns=["word", "split"])
+    df = clean_dataframe(df)
     df.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
     print(f"Number of entries: {len(df)}")
 
