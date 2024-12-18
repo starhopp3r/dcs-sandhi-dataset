@@ -12,6 +12,8 @@ OUTPUT_FILE = "sandhi_data.csv"
 token_line_pattern = re.compile(r"^(\d+(?:-\d+)?)\s+(\S+)\s+")
 unsandhied_pattern = re.compile(r"Unsandhied=([^|]+)")
 
+filter_chars = ['ॐ', 'ज़', 'ॠ', '।', '॥', '१', '२', '३', '५', '६', 'ꣳ', 'ﾱ', '\ufff8']
+
 
 def iast_to_devanagari(text):
     return sanscript.transliterate(text, sanscript.IAST, sanscript.DEVANAGARI)
@@ -159,10 +161,18 @@ def process_conllu_file(file_path, data_rows):
 
 
 def clean_dataframe(df):
+    def is_clean_string(input_string):
+        # Checks if the input_string contains any of the filter_chars.
+        for char in filter_chars:
+            if char in input_string:
+                return False
+        return True
+
+
     def is_valid_word(word):
         try:
             # Check if the word is valid using skt.get_ucchaarana_vectors
-            if skt.get_ucchaarana_vectors(word):
+            if skt.get_ucchaarana_vectors(word) and is_clean_string(word):
                 return True
             else:
                 return False
