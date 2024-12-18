@@ -162,8 +162,10 @@ def clean_dataframe(df):
     def is_valid_word(word):
         try:
             # Check if the word is valid using skt.get_ucchaarana_vectors
-            skt.get_ucchaarana_vectors(word)
-            return True
+            if skt.get_ucchaarana_vectors(word):
+                return True
+            else:
+                return False
         except Exception:
             return False
 
